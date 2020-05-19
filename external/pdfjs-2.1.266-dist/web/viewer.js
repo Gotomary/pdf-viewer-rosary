@@ -5132,11 +5132,11 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'compressed.tracemonkey-pldi-09.pdf',
+    value: 'How to pray the rosary.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
-    value: '',
+    value: '3',
     kind: OptionKind.VIEWER
   },
   disableHistory: {
