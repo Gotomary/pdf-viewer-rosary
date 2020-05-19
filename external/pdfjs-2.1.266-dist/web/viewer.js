@@ -5132,11 +5132,11 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'How to pray the rosary.pdf',
+    value: 'How to pray the Rosary.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
-    value: '3',
+    value: 'Page Fit',
     kind: OptionKind.VIEWER
   },
   disableHistory: {
