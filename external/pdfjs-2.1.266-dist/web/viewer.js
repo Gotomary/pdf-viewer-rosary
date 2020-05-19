@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'How to pray the Rosary.pdf',
+    value: 'How to pray the rosary.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
