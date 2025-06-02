@@ -5,7 +5,7 @@ PDF viewer with flip-book interface integration to allow read files flipping pag
 Upload your PDF to directory external/pdfjs-2.1.266-dist/web/
 
 Go to file external/pdfjs-2.1.266-dist/web/viewer.js
-Go to line   5135 replace value with PDF e.g.  value: 'Monkey.pdf',
+Go to line   5135 replace value with PDF e.g.  value: 'How to pray the rosary.pdf',
 
 
 ## Info
